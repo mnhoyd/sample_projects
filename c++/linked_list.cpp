@@ -160,8 +160,3 @@ class LinkedList{
             }
         }
 };
-
-int main(){
-    
-    return 0;
-}
