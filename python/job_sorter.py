@@ -21,7 +21,7 @@ class JobSearchSorter:
             dato.append(still[2])
             URL.append(still[3])
         
-        #infile.close()
+        infile.close()
 
         for i in range(len(dato)):
     
